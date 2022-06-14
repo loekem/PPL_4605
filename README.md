@@ -1,3 +1,3 @@
 # PPL_4605
-ropesitory kelas PPL
+repository kelas PPL
 berisi untuk tugas-tugas, uts, uas
